@@ -1,0 +1,49 @@
+site_name: Ominira Unicamp
+site_dir: public
+#site_url: 
+site_author: José Victor 
+site_description: Ominira é a comunidade de desenvolvimento de software livre da Unicamp
+#repo_name: Site Ominira 
+repo_url: 
+copyright: CC BY-SA 4.0
+nav:
+  - Home: index.md
+  - Sobre: about.md
+  - Aulas de Rust: 
+    - Introdução: rust/intro.md
+theme:
+  name: material
+  language: pt-BR
+  logo: assets/logo.png
+  favicon: assets/logo.png
+  highlightjs: true
+  features:
+      - toc.integrate
+      - navigation.tabs
+      - navigation.expand
+      - navigation.instant
+      - navigation.instant.progress
+      - content.code.copy
+      - content.code.select
+  palette:
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: black
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+plugins:
+  - search
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - pymdownx.magiclink
