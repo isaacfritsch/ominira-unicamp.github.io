@@ -27,7 +27,7 @@ Olá, meu nome é <Seu Nome> 👋, sou estudante de <Seu Curso> na UNICAMP e fa�
 
 ### Projetos Ominira
 
-Aqui está meu nível interesse em contribuir nos projetos seguintes projetos da Ominira:
+Aqui está meu nível de interesse em contribuir para os seguintes projetos da Ominira:
 
 - Quaac - 🔴🔴🔴🔴🔴🔴⭕⭕⭕⭕
 - RastreadorSangue API - 🔴🔴🔴🔴🔴🔴🔴🔴⭕⭕
