@@ -20,7 +20,7 @@ Iniciante
 🔴🔴🔴🔴🔴🔴🔴⭕⭕⭕
 
 
-## [**Api de Sangue**](https://github.com/AlexandreOkita/RastreadorSangueAPI)
+## [**RastreadorSangue API**](https://github.com/AlexandreOkita/RastreadorSangueAPI)
 
 O RastreadorSangue API é um projeto open source e colaborativo que tem como objetivo reunir dados de hemocentros de diversos hospitais do Brasil em um único banco de dados e disponibilizá-los por meio de uma API. Este projeto surge em resposta à crise atual de doação de sangue no Brasil, onde os bancos de sangue estão enfrentando escassez.
 
