@@ -9,8 +9,11 @@ copyright: CC BY-SA 4.0
 nav:
   - Home: index.md
   - Sobre: about.md
-  - Aulas de Rust: 
-    - Introdução: rust/intro.md
+  - Projetos: projects.md
+  # - Aulas de Rust: 
+  #   - Introdução: rust/intro.md
+extra_css:
+  - stylesheets/extra.css
 theme:
   name: material
   language: pt-BR
@@ -28,10 +31,11 @@ theme:
   palette:
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
-      scheme: default
+      scheme: ominira
+      primary: custom
       toggle:
         icon: material/brightness-7
-        name: Switch to dark mode
+        name: Alterar para Modo Escuro
 
     # Palette toggle for dark mode
     - media: "(prefers-color-scheme: dark)"
@@ -39,7 +43,7 @@ theme:
       primary: black
       toggle:
         icon: material/brightness-4
-        name: Switch to light mode
+        name: Alterar para Modo Claro
 plugins:
   - search
 

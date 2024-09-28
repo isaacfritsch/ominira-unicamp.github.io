@@ -1,0 +1,15 @@
+:root {
+  --md-primary-fg-color: #800;
+  --md-primary-fg-color--light: #b00;
+  --md-primary-fg-color--dark: #160404;
+  --md-primary-bg-color: white;
+  --md-primary-bg-color--light: #b00;
+}
+
+[data-md-color-scheme="ominira"] {
+    --md-primary-fg-color: #b00;
+    --md-primary-fg-color--light: #b00;
+    --md-primary-fg-color--dark: #160404;
+    --md-primary-bg-color: white;
+    --md-primary-bg-color--light: #b00;
+}
