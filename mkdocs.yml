@@ -11,6 +11,7 @@ nav:
   - Sobre: about.md
   - Projetos: projects.md
   - Membros: members.md
+  - Festival: festival.md
   # - Aulas de Rust: 
   #   - Introdução: rust/intro.md
 extra_css:
