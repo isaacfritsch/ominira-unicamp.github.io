@@ -4,7 +4,7 @@
 
 ### Quem sou eu?
 
-Olá, meu nome é Isaac Werner S. Fritsch e sou aluno do segundo ano de Ciência da Computação na Unicamp. Tenho grande interesse pela educação e pela ciência, o que me levou a atuar como voluntário no Cursinho Popular Zilda Arns e a criar o projeto quaac.com. Além disso, tenho interesse por estatística/ciência de dados e estou atualmente num projeto de iniciação científica nessa área.
+Olá, meu nome é Isaac Werner S. Fritsch e sou aluno do segundo ano de Ciência da Computação na Unicamp. Tenho grande interesse pela educação e pela ciência, o que me levou a atuar como voluntário no Cursinho Popular Zilda Arns como professor de matemática e a criar o projeto quaac.com. Além disso, tenho interesse por estatística/ciência de dados, estando atualmente num projeto de iniciação científica nessa área. Também faço parte da gestão da entidade estudantil Enigma - focada em segurança e criptografia.
 
 ### Contato
 
