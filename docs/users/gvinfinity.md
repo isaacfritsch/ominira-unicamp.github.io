@@ -13,6 +13,16 @@ Olá, meu nome é Gabriel Soares 👋, sou estudante de Engenharia da Computaç�
 - Email: g.soares@ifpeopensource.com.br
 - GitHub: [Gvinfinity](https://github.com/gvinfinity)
 
+### Destaques
+
+Aqui estão alguns projetos que contribuí:
+
+- https://github.com/moraguma/GamutoWare
+- https://github.com/Protheus-Robotica/motor-de-passo
+- https://github.com/ifpeopensource/if-notifier
+- https://github.com/ifpeopensource/merenda-server
+- https://www.ifproseg.com.br
+
 ## Interesses
 
 ### Linguagens de Programação
